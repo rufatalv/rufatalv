@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, GSAP, Javascript, Next.js**
 
-- 📫 How to reach me **rufat845@gmail.com**
+- 📫 How to reach me [**rufat845@gmail.com**](mailto:rufat845@gmail.com)
 
 - 📄 Know about my experiences [rufataliyev.xyz](rufataliyev.xyz)
 
