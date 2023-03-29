@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **E-CommerceProject**
 
-- 👨‍💻 All of my projects are available at [https://rufataliyev.xyz](rufataliyev.xyz)
+- 👨‍💻 All of my projects are available at [rufataliyev.xyz](https://rufataliyev.xyz)
 
 - 💬 Ask me about **React, GSAP, Javascript, Next.js**
 
 - 📫 How to reach me [**rufat845@gmail.com**](mailto:rufat845@gmail.com)
 
-- 📄 Know about my experiences [https://rufataliyev.xyz](rufataliyev.xyz)
+- 📄 Know about my experiences [https://rufataliyev.xyz](https://rufataliyev.xyz)
 
 - ⚡ Fun fact **I started learning web-dev recently**
 
