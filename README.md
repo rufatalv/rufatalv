@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Baku,Azerbaijan</h3>
 
 
-- 🔭 I’m currently working on **E-CommerceProject**
+- 🔭 I’m currently working on **Freelance**
 
 - 👨‍💻 All of my projects are available at [rufataliyev.xyz](https://rufataliyev.xyz)
 
