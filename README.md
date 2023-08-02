@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://rufataliyev.xyz](https://rufataliyev.xyz)
 
-- ⚡ Fun fact **I started learning web-dev recently**
+- ⚡ Fun fact **My heart is semi-auto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
