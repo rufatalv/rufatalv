@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rufat</h1>
-<h3 align="center">A passionate frontend developer from Baku,Azerbaijan</h3>
+<h3 align="center">A Senior Full-Stack Engineer from Baku,Azerbaijan</h3>
 
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently working on **NDA Projects**
 
 - 👨‍💻 All of my projects are available at [rufataliyev.xyz](https://rufataliyev.xyz)
 
-- 💬 Ask me about **React, GSAP, Javascript, Next.js**
+- 💬 Ask me about **NextJS, NestJS, NuxtJS, Vue, React, Typescipr**
 
 - 📫 How to reach me [**rufat845@gmail.com**](mailto:rufat845@gmail.com)
 
